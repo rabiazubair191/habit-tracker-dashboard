@@ -277,42 +277,144 @@ body {
     font-size: 15px;
 }
 
+.icon1-name {
+    position: relative;
+    left: 84px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -2px;
+}
+
+.icon1-num {
+    position: relative;
+    left: 287px;
+    top: -15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 17px;
+}
+
 .hicara-arode-icon {
      color: rgb(193, 191, 191);
     position: relative;
-    top: 49px;
-    left: 4px;
+    top: 1px;
+    left: 23px;
     font-size: 15px;
+}
+
+.icon2-name {
+ position: relative;
+    left: 84px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -15px;
+}
+
+.icon2-num {
+    position: relative;
+    left: 287px;
+    top: -31px;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 17px;
 }
 
 .tobio-bolne {
  color: rgb(193, 191, 191);
     position: relative;
-    top: 89px;
-    left: -18px;
+    top: -12px;
+    left: 25px;
     font-size: 15px;
+}
+
+.icon3-name {
+position: relative;
+    left: 83px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -27px;
+}
+
+.icon3-num {
+    position: relative;
+    left: 287px;
+    top: -42px;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 17px;
 }
 
 .dosa-dota {
     color: rgb(193, 191, 191);
     position: relative;
-    top: 127px;
-    left: -40px;
+    top: -25px;
+    left: 25px;
     font-size: 15px;
+}
+
+.icon4-name {
+position: relative;
+    left: 84px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -40px;
+}
+
+.icon4-num {
+     position: relative;
+    left: 287px;
+    top: -55px;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 17px;
 }
 
 .flert-lighs {
     color: rgb(193, 191, 191);
     position: relative;
-    top: 165px;
-    left: -62px;
+    top: -37px;
+    left: 24px;
     font-size: 15px;
+}
+
+.icon5-name {
+position: relative;
+    left: 84px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -54px;
+}
+
+.icon5-num {
+      position: relative;
+    left: 287px;
+    top: -69px;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 17px;
 }
 
 .domt-one {
      color: rgb(193, 191, 191);
     position: relative;
-    top: 204px;
-    left: -84px;
+    top: -47px;
+    left: 24px;
     font-size: 15px;
+}
+
+.icon6-name {
+position: relative;
+    left: 84px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -62px;
+}
+
+.icon6-num {
+   position: relative;
+    left: 287px;
+    top: -79px;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 17px; 
 }
