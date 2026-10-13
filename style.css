@@ -280,7 +280,39 @@ body {
 .hicara-arode-icon {
      color: rgb(193, 191, 191);
     position: relative;
-    top: 12px;
-    left: 24px;
+    top: 49px;
+    left: 4px;
+    font-size: 15px;
+}
+
+.tobio-bolne {
+ color: rgb(193, 191, 191);
+    position: relative;
+    top: 89px;
+    left: -18px;
+    font-size: 15px;
+}
+
+.dosa-dota {
+    color: rgb(193, 191, 191);
+    position: relative;
+    top: 127px;
+    left: -40px;
+    font-size: 15px;
+}
+
+.flert-lighs {
+    color: rgb(193, 191, 191);
+    position: relative;
+    top: 165px;
+    left: -62px;
+    font-size: 15px;
+}
+
+.domt-one {
+     color: rgb(193, 191, 191);
+    position: relative;
+    top: 204px;
+    left: -84px;
     font-size: 15px;
 }
