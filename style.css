@@ -503,3 +503,80 @@ position: relative;
     width: 122px;
     transform: rotate(89.5deg);
 }
+
+
+
+/* ICONS */
+
+
+.teas-detty-icon {
+    color: rgb(193, 191, 191);
+    position: relative;
+    top: 32px;
+    left: 18px;
+    font-size: 15px;
+}
+
+.teas-detty-name {
+        position: relative;
+    left: 59px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: 20px;
+}
+
+.teas-detty-num {
+  position: relative;
+    left: 163px;
+    top: 4px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.boa-detry-icon {
+    color: rgb(193, 191, 191);
+    position: relative;
+    top: 21px;
+    left: 18px;
+    font-size: 15px;
+}
+
+.boa-detry-name {
+position: relative;
+    left: 62px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: 6px;
+}
+
+.boa-detry-num {
+ position: relative;
+    left: 163px;
+    top: -11px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.sdah-clicas-icon {
+    color: rgb(193, 191, 191);
+    position: relative;
+    top: 11px;
+    left: 19px;
+    font-size: 15px;
+}
+
+.sdah-clicas-name {
+position: relative;
+    left: 62px;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: -5px;
+}
+
+.sdah-clicas-num {
+ position: relative;
+    left: 163px;
+    top: -20px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
