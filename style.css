@@ -418,3 +418,88 @@ position: relative;
     font-size: 15px;
     letter-spacing: 17px; 
 }
+
+
+.too-otepe1 {
+    width: 199px;
+    height: 187px;
+    background-color: #fffcf5;
+    position: relative;
+    left: 31px;
+    bottom: 400px;
+    border-radius: 20px;
+}
+
+.too-otepe-navbar {
+     width: 199px;
+    height: 40px;
+    background-color: #293c67;
+    position: relative;
+    left: 0px;
+    bottom: 1px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.otepe-nav-heading {
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 16px;
+    bottom: -14px;
+    font-size: 12px;
+    word-spacing: 47px;
+}
+
+
+.line-9 {
+    border: none;
+    height: 1px;
+    background-color: rgb(234, 230, 230);
+    position: relative;
+    top: 63px;
+    left: 19px;
+    width: 161px;
+}
+
+.line-10 {
+    border: none;
+    height: 1px;
+    background-color: rgb(234, 230, 230);
+    position: relative;
+    top: 102px;
+    left: 19px;
+    width: 161px;
+}
+
+.line-11 {
+    border: none;
+    height: 1px;
+    background-color: rgb(234, 230, 230);
+    position: relative;
+    top: 142px;
+    left: 19px;
+    width: 161px;
+}
+
+.line-12 {
+    border: none;
+    height: 1px;
+    background-color: rgb(234, 230, 230);
+    position: relative;
+    top: 95px;
+    left: -12px;
+    width: 122px;
+    transform: rotate(89.5deg);
+}
+
+.line-13 {
+    border: none;
+    height: 1px;
+    background-color: rgb(234, 230, 230);
+    position: relative;
+    top: 95px;
+    left: 90px;
+    width: 122px;
+    transform: rotate(89.5deg);
+}
